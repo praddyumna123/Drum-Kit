@@ -1,2 +1,2 @@
 # Drum-Kit
-This is a drumKit web application using JavaScriptt ,HTML,CSS.
+This is a drumKit web application using JavaScript ,HTML,CSS.
